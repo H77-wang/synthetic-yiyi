@@ -10,3 +10,8 @@ __pycache__/
 Thumbs.db
 .DS_Store
 desktop.ini
+
+# 同步脚本的本地令牌 / 临时体（切勿提交）
+.ghtoken
+.ghbody.tmp
+
